@@ -14,7 +14,7 @@ public struct ClassicConfig {
     public init(borderColor: CoreGraphics.CGColor = CGColor(red: 225/255,
                                                    green: 225/255,
                                                    blue: 225/255,
-                                                   alpha: 1), borderWeight: CoreGraphics.CGFloat = 1, cornerRadius: CoreGraphics.CGFloat = 8, backgroundColor: UIKit.UIColor = .white)
+                                                   alpha: 1), borderWeight: CoreGraphics.CGFloat = 1, cornerRadius: CoreGraphics.CGFloat = 8, backgroundColor: UIKit.UIColor = .red)
   }
   public struct TopLabel {
     public init(fontFamily: Swift.String = "HelveticaNeue", fontSize: CoreGraphics.CGFloat = 14, fontColor: UIKit.UIColor = UIColor(red: 33/255,

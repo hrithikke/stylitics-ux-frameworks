@@ -14,7 +14,7 @@
 		</data>
 		<key>ClassicCollectionViewCell.nib</key>
 		<data>
-		RbWgvlZr1zcpApxN890111zDWxI=
+		P/LfqeUSJI3t3RjTzI91EYlfSOY=
 		</data>
 		<key>ClassicDisplayContainerView.nib</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/StyliticsUI.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		HxXOXDHo6bZJ92HYhJT6PTXhHbE=
+		7CW+rB2IVxCGJrvHe0lSv3OoxZQ=
 		</data>
 		<key>Modules/StyliticsUI.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cJS8HDi7Mm7r2nt6uJz9mMJuNDo=
+		XvXh7+wmGVSQS3nWf625eRSnbFE=
 		</data>
 		<key>Modules/StyliticsUI.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/StyliticsUI.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qNm4lNSZbdVqsGu9jdTwSp49pAo=
+		IPiRvO9fnqMEgUNluM6lQj6cXRI=
 		</data>
 		<key>Modules/StyliticsUI.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		x2uHCOdCwaMU0SPtBtHht28+uNk=
+		U4wszI7bO0jVz5u59KHIHlN6EtA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P/r4MId/IMQX4iifptEBygD+zpfC4H6tnJgzKs84rsY=
+			9aAX+MW2EwfJgKftXByP8FWO0phLyGqbh3EfPYyu4xw=
 			</data>
 		</dict>
 		<key>ClassicDisplayContainerView.nib</key>
@@ -210,14 +210,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ldgj0gdNsb2FlwbalOtfp4HVxg6kLjz6x/E0nUv6dvw=
+			FKOANqAe0QcCfXv0v62rVtT1P25psJhmdgDLuszXhkM=
 			</data>
 		</dict>
 		<key>Modules/StyliticsUI.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M88N6dBvnUj5+ANbC+jcdpzDoo2kJYNCsuIqFSOwr2c=
+			D7Dw6Zrent+NZkQbdStqr/ORIREyN/pqNnTpUrwJzkc=
 			</data>
 		</dict>
 		<key>Modules/StyliticsUI.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -231,14 +231,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aI73ZSU7JLz4DwO/fvNu+M2TjcTLeH6zIcyU1sNu0kE=
+			8R0hgl3Pki/e/rh9VuZut57a7ne6dUiCuznwIboZbOI=
 			</data>
 		</dict>
 		<key>Modules/StyliticsUI.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VEERAwzmzuwBB3PNa3dXq/kd6srGOpBK6n0jttWdpfc=
+			uwoTN7OebmIe5EdP7PLEpPlp2u5qK3k2WpWuBN7Ykno=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
